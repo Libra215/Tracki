@@ -11,4 +11,5 @@ Instagram
 
 # Run program
  -> cd Tracki
+
  -> php Track.php
