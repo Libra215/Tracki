@@ -7,7 +7,8 @@ Instagram
 
 
 # Install PHP 
-pkg install PHP
+ -> pkg install PHP
 
 # Run program
-php Track.php
+ -> cd Tracki
+ -> php Track.php
